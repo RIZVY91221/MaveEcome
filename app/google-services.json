@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45631830515",
+    "firebase_url": "https://mave-e-come.firebaseio.com",
+    "project_id": "mave-e-come",
+    "storage_bucket": "mave-e-come.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45631830515:android:3951efeab6fc9597",
+        "android_client_info": {
+          "package_name": "com.example.mavee_come"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45631830515-0i42haqod57gm8nit7t73d2u0b97j681.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mavee_come",
+            "certificate_hash": "fc68d02dd790fca0ff10b9e08b250190cc9df66a"
+          }
+        },
+        {
+          "client_id": "45631830515-4rss54aubcc8gmdu5hghtkn92ejeeh9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkvU77J3aVB4Fp9ipVJL8LN05GK7VlZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45631830515-4rss54aubcc8gmdu5hghtkn92ejeeh9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
